@@ -1,0 +1,66 @@
+/* General body style */
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #c3a3;
+    font-style: italic;
+}
+
+/* Header */
+header {
+    background-color: #566a7e;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Navigation */
+nav {
+    background-color: #bac4ce;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: #2e6ead;
+}
+
+/* Main content */
+main {
+    padding: 40px;
+}
+
+/* Headings */
+h2 {
+    color: #2e6ead;
+}
+
+h3 {
+    color: #e74c3c;
+}
+
+/* Paragraph */
+p {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+/* Lists */
+ul, ol {
+    font-size: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #2C3E50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
